@@ -6,4 +6,4 @@
 
 ### 都TM给我学习!!!
 
-[基础知识复习](/README.md)
+[基础知识复习](./Review/Review.md)
