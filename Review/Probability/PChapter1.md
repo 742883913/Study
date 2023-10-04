@@ -40,4 +40,16 @@ $$\begin{split}
 
 > $P(\cdot|B)$ 符合一切运算规律
 
-- 全概率公式:
+- 全概率公式（知因求果）(<font color =red>Total Probability</font>)：
+
+$$\bigcup ^n_{i=1}A_i=\Omega,P(B)=\sum ^n_{i=1}P(A_i)P(B\lvert A_i)$$
+
+- 贝叶斯公式（知果求因）(<font color =red>Bayes Rule</font>):
+
+$$\bigcup ^n_{i=1}A_i=\Omega,P(A_j\lvert B)=\frac{P(A_j)P(B\lvert A_j)}{\sum ^n_{i=1}P(A_i\lvert B)}$$
+
+- 独立
+
+$$P(A)P(B)=P(AB)$$
+
+- 泊努力概型:只有是与不是两种结果;重复进行 $n$ 次
