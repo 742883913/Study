@@ -38,7 +38,7 @@ $$\begin{split}
   &P(AB)=P(A)P(B|A)
 \end{split}$$
 
-> $P(\cdot|B)$ 符合一切运算规律
+> $P(\cdot \lvert B)$ 符合一切运算规律
 
 - 全概率公式（知因求果）(<font color =red>Total Probability</font>)：
 
