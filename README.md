@@ -7,3 +7,5 @@
 ### 都TM给我学习!!!
 
 [基础知识复习](./Review/Review.md)
+
+[大四期末复习](./BachelorLastYear/outlinebachelor.md)
