@@ -1,3 +1,3 @@
 [光学测量](OpticalMeasurement.md)
 
-[仪器零件设计]()
+[仪器零件设计](./Instrumentpartsdesign.md)
